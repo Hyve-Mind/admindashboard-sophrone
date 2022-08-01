@@ -1,1 +1,1 @@
-# admindashboard-sophrone
+Odin Project Admin Dashboard project made with HTML and Css.
